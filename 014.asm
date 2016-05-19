@@ -6,8 +6,6 @@ section .text
     global _start
 
     _start:
-        ;jmp finish
-
         mov rdx, 1000000
         xor rbp, rbp                ;current max chain
         xor rbx, rbx                ;current chain length

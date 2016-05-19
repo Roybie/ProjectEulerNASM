@@ -1,5 +1,5 @@
-;Project Euler Problem #11
-;https://projecteuler.net/problem=11
+;Project Euler Problem #12
+;https://projecteuler.net/problem=12
 
 extern printf
 

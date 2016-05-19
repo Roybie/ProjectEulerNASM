@@ -6,7 +6,7 @@ extern printf
 section .data
 
     max dq 0
-    arr incbin "./8.data"
+    arr incbin "./008.data"
     fmt db "%ld",10,0
 
 section .text

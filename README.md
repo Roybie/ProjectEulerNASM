@@ -17,6 +17,10 @@ linked with gcc (for printf to easily print out large numbers)
 
 `gcc -m64 -0 1.o`
 
+or for solutions not using printf
+
+`ld -o 1 1.o`
+
 run with (time optional)
 
 `time ./1`
